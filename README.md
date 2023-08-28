@@ -4,7 +4,6 @@
 •	👀 I’m interested in Data Science and Machine Learning. \ 
 •	💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas. \
 •	📫 Reach out to me at: vivi.richard.ext@bayer.com \
-•	⚡ Hobbies: Reading (To keep improving knowledge), Travel (Opens the heart, Broadens the mind, and fills the life with stories to tell), Meditation (For inner peace)
 
 <!---
 vivi-richard/vivi-richard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
